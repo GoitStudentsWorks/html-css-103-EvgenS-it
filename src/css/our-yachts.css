@@ -183,7 +183,7 @@
   }
   .our-yachts-item {
     display: block;
-    width: calc((100% - 25%) / 3);
+    width: calc((100% - 64px) / 3);
   }
   .our-yachts-item-subtitle {
     max-width: 180px;
