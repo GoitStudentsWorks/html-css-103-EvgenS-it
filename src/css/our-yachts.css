@@ -104,8 +104,7 @@
   letter-spacing: -0.02em;
   color: #fbfbfb;
   background-color: #0e1823;
-  margin-top: 40px;
-  margin-bottom: 80px;
+  margin: 0 auto;
   display: block;
 }
 .our-yachts-button:hover,
@@ -153,14 +152,11 @@
     line-height: 1.18;
   }
   .our-yachts-button {
-    min-width: 179px;
     height: 52px;
     font-weight: 500;
     font-size: 18px;
     line-height: 1.1;
     background-color: #0e1823;
-    margin-top: 50px;
-    margin-bottom: 150px;
   }
 }
 /* Desktop 1280 */
