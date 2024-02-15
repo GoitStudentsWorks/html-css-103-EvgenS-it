@@ -5,7 +5,6 @@
 }
 .our-yachts {
   background-color: #0e1823;
-  padding-bottom: 80px;
 }
 .our-yachts-title {
   max-width: 319px;
@@ -95,7 +94,7 @@
 .our-yachts-button {
   border: 1px solid rgba(251, 251, 251, 0.35);
   border-radius: 15px;
-  padding: 14px 32px;
+  padding: 14px;
   width: 141px;
   height: 46px;
   font-weight: 500;
@@ -174,7 +173,7 @@
   }
   .our-yachts-list {
     display: flex;
-    gap: 25px;
+    gap: 32px;
     margin-bottom: 50px;
   }
   .yachts-item:nth-child(3n + 3) {
