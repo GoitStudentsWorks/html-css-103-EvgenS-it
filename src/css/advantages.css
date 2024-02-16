@@ -62,6 +62,10 @@ ol {
   margin-top: 20px;
 }
 @media screen and (min-width: 768px) {
+  .adv-section > .container {
+    max-width: 768px;
+  }
+
   .adv-list {
     max-width: 704px;
     display: flex;
@@ -84,6 +88,10 @@ ol {
   }
 }
 @media screen and (min-width: 1280px) {
+  .adv-section > .container {
+    max-width: 1280px;
+  }
+
   .adv-wrap {
     display: flex;
     gap: 32px;
