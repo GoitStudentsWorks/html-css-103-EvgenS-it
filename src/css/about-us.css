@@ -79,7 +79,7 @@
   line-height: 1;
   letter-spacing: -0.02em;
   margin-top: 40px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   padding-left: 20px;
   padding-right: 20px;
 }
@@ -120,7 +120,8 @@
 @media screen and (min-width: 768px) {
   .about-title {
     font-size: 48px;
-    margin-bottom: 50px;
+    margin: 50px 0 50px 32px;
+    padding: 0;
     line-height: 1;
     /* margin-left: 32px; */
     max-width: 536px;
@@ -152,6 +153,10 @@
 }
 
 @media screen and (min-width: 1280px) {
+  .about-section {
+    height: 878px;
+  }
+
   .about-upper-container {
     display: flex;
     flex-direction: row;
@@ -183,12 +188,12 @@
   }
 
   .about-title {
+    width: 537px;
     margin-right: 299px;
   }
 
   .about-text-container {
     max-width: 404px;
-    margin-bottom: 69px;
     margin-left: auto;
     margin-right: 50px;
   }
