@@ -6,6 +6,7 @@ ol {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  max-width: 375px;
 }
 .adv-wrap {
   margin: 0 auto;
