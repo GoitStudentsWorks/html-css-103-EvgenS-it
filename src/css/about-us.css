@@ -120,7 +120,7 @@
 @media screen and (min-width: 768px) {
   .about-title {
     font-size: 48px;
-    margin: 50px 0 50px 32px;
+    /* margin: 50px 0 50px 32px; */
     padding: 0;
     line-height: 1;
     /* margin-left: 32px; */
